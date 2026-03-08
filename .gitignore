@@ -211,3 +211,6 @@ SpamEmailClassificationDataset/
 
 # AI Model Files
 NaiveBayes/
+
+# Logs and Generated Reports
+*.csv
