@@ -208,3 +208,6 @@ __marimo__/
 
 # Data Set 
 SpamEmailClassificationDataset/
+
+# AI Model Files
+NaiveBayes/
